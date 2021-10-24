@@ -1,0 +1,28 @@
+Stadium Board.
+- Gerber Files Available.
+- Library, Schematic and PCB Files are missing.
+- Gerber Files Link for reference only: https://bit.ly/3px2JUV
+- Client already has the boards and tested it, following changes needs to be done.
+>> Remove SW1 and XRGB Connector, please check reference image named "Remove"
+>> Need to add three diodes in series 1N5400-E3/73, refernece  link: https://bit.ly/3Cc2PFa ,please check reference image named "Added"
+]] New Library will be created, please checked BOM named "Stadium Card BOM"
+]] Schematic/Circuit Design, take Reference of Gerber Files.
+]] Parts placement will be done, review images Assemble Board View (1) and Assemble Board View (2). 
+]] PCB Layout.
+]] Stadium Board Dimension: 45.7mm87.6mm
+
+Orion Board.
+- Gerber Files Available.
+- Library, Schematic and PCB Files are missing.
+- Gerber Files Link for reference only: https://bit.ly/3b5tjMv
+- Client already has the boards and tested it, following changes needs to be done.
+>> Need to swap R and G signal traces, please check reference image named "Remove"
+>> Need to add two diodes in series 1N4007-T, refernece  link: https://bit.ly/3EcbJTD ,please check reference image named "Added"
+]] New Library will be created, please checked BOM named "Orion Card BOM"
+]] Schematic/Circuit Design, take Reference of Gerber Files.
+]] Parts placement will be done, review images Assemble Board View (1) and Assemble Board View (2). 
+]] PCB Layout.
+]] Orion Board Dimension: 50.8mm78.7mm
+
+Notes: 
+Some of the parts are obselete/out of stock so replace with new one with same specs.
