@@ -1,0 +1,4 @@
+Added Component: Designator=VP2(TEST POINT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VP Pin=VP2-1
+Added Member To Class: ClassName=U_Connector_Section Member=Component VP2 Test Point
