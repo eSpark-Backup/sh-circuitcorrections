@@ -1,0 +1,11 @@
+Added Component: Designator=D1(SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Diodes-General-Purpose_Slkor-SLKORMICRO-Elec-M7_C426571.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Slkor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "M7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=D1-1
+Added Pin To Net: NetName=VP Pin=D1-2
+Added Member To Class: ClassName=U_Connector_Section Member=Component D1 M7
