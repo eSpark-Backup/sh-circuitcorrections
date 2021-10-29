@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=D2 Old Footprint=1N5400-E3/73 New Footprint=S3AB
+Change Component Footprint: Designator=D3 Old Footprint=1N5400-E3/73 New Footprint=S3AB
+Change Component Footprint: Designator=D4 Old Footprint=1N5400-E3/73 New Footprint=S3AB
+Change Component Comment : Designator=D2 Old Comment=1N5400-E3/73 New Comment=S3AB
+Change Component Comment : Designator=D3 Old Comment=1N5400-E3/73 New Comment=S3AB
+Change Component Comment : Designator=D4 Old Comment=1N5400-E3/73 New Comment=S3AB
+Change component parameters: Designator = "D2" ("D2"); Footprint = "1N5400-E3/73"; UniqueID = "\YKNYYMWP\SILRQBMG" ("\YKNYYMWP\SILRQBMG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Diodes-General-Purpose_Shandong-Jingdao-Microelectronics-S3AB_C437627.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Shandong"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "S3AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMB(DO-214AA)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Custom"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "1N5400-E3/73"; UniqueID = "\YKNYYMWP\BNCCGTXF" ("\YKNYYMWP\BNCCGTXF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Diodes-General-Purpose_Shandong-Jingdao-Microelectronics-S3AB_C437627.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Shandong"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "S3AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMB(DO-214AA)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Custom"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "1N5400-E3/73"; UniqueID = "\YKNYYMWP\FGTQQBFK" ("\YKNYYMWP\FGTQQBFK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Diodes-General-Purpose_Shandong-Jingdao-Microelectronics-S3AB_C437627.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Shandong"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "S3AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMB(DO-214AA)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Custom"; VariantName = "[No Variations]"
