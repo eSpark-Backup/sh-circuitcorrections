@@ -55,6 +55,23 @@ GenerateClassCluster=0
 DocumentUniqueId=KXIGPWZW
 
 [Document2]
+DocumentPath=Power_Section.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LHVQKLCZ
+
+[Document3]
 DocumentPath=Processing_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKUJZHKR
 
-[Document3]
+[Document4]
 DocumentPath=Switching_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSOGKQQS
 
-[Document4]
+[Document5]
 DocumentPath=Controller_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
