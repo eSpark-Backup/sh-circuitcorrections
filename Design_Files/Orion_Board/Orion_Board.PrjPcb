@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PSOGKQQS
 
 [Document5]
-DocumentPath=Controller_Section.SchDoc
+DocumentPath=Connector_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
