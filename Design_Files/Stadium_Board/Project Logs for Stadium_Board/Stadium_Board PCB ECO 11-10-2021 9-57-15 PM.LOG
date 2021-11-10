@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=NetB_1 Pin=B-1
+Removed Pin From Net: NetName=NetG_1 Pin=G-1
+Removed Pin From Net: NetName=GND Pin=GND-1
+Removed Pin From Net: NetName=BLUE Pin=R9-1
+Removed Pin From Net: NetName=NetB_1 Pin=R9-2
+Removed Pin From Net: NetName=GREEN Pin=R10-1
+Removed Pin From Net: NetName=NetG_1 Pin=R10-2
+Removed Pin From Net: NetName=RED Pin=R-1
+Removed Member From Class: ClassName=U_Connector_Section Member=B
+Removed Member From Class: ClassName=U_Connector_Section Member=G
+Removed Member From Class: ClassName=U_Connector_Section Member=GND
+Removed Member From Class: ClassName=U_Connector_Section Member=R
+Removed Member From Class: ClassName=U_Connector_Section Member=V1
+Removed Member From Class: ClassName=U_Connector_Section Member=V2
+Change component parameters: Designator = "R9"; Footprint = "RES 1210"; UniqueID = "\YQOEFEZD\CAQLXBQS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Ever-Ohms-Tech-CR1210J2R40P05S_C174575.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ever Ohms Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "CR1210J2R40P05S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.4O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "RES 1210"; UniqueID = "\YQOEFEZD\XPMSDTNA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Ever-Ohms-Tech-CR1210J2R40P05S_C174575.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ever Ohms Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "CR1210J2R40P05S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.4O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "RES 0805"; UniqueID = "\VCXRNVML\FKLTYUOX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "RES 0805"; UniqueID = "\VCXRNVML\JHRSTFSP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Component: Designator=U7(ESP8285)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://tasmota.github.io/docs/devices/MagicHome-with-ESP8285/#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tasmota"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "ESP8285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GREEN Pin=R9-1
+Added Pin To Net: NetName=NetG_1 Pin=R9-2
+Added Pin To Net: NetName=BLUE Pin=R10-1
+Added Pin To Net: NetName=NetB_1 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=12V1 Pin=U7-2
+Added Pin To Net: NetName=12V1 Pin=U7-3
+Added Pin To Net: NetName=RED Pin=U7-4
+Added Pin To Net: NetName=NetG_1 Pin=U7-5
+Added Pin To Net: NetName=NetB_1 Pin=U7-6
+Change Net Name : Old Net Name=NetB_1 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetG_1 New Net Name=NetR9_2
+Added Member To Class: ClassName=U_PowerSwitch-Section Member=Component SB1 Solder Bridge
+Added Member To Class: ClassName=U_PowerSwitch-Section Member=Component SB3 Solder Bridge
+Added Member To Class: ClassName=U_PowerSwitch-Section Member=Component U4 4N25SM
+Added Member To Class: ClassName=U_Connector_Section Member=Component U7 ESP8285
