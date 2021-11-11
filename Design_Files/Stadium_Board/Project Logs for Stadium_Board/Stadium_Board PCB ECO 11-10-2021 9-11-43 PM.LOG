@@ -1,0 +1,34 @@
+Change Component Description : Designator=R3 Old Description=13kO 0201 Chip Resistor New Description=13kO 0201 Chip Resistor
+Change Component Description : Designator=R6 Old Description=13kO 0201 Chip Resistor New Description=13kO 0201 Chip Resistor
+Change Component Description : Designator=R1 Old Description=51kO 0201 Chip Resistor New Description=51kO 0201 Chip Resistor
+Change Component Description : Designator=R4 Old Description=51kO 0201 Chip Resistor New Description=51kO 0201 Chip Resistor
+Change Component Description : Designator=R2 Old Description=715kO 0201 Chip Resistor New Description=715kO 0201 Chip Resistor
+Change Component Description : Designator=R5 Old Description=715kO 0201 Chip Resistor New Description=715kO 0201 Chip Resistor
+Change Component Description : Designator=R11 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R12 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R9 Old Description=±5% 500mW Thick Film Resistors 200V ±400ppm/? -55?~+155? 2.4O 1210 Chip Resistor - Surface Mount ROHS New Description=±5% 500mW Thick Film Resistors 200V ±400ppm/? -55?~+155? 2.4O 1210 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R10 Old Description=±5% 500mW Thick Film Resistors 200V ±400ppm/? -55?~+155? 2.4O 1210 Chip Resistor - Surface Mount ROHS New Description=±5% 500mW Thick Film Resistors 200V ±400ppm/? -55?~+155? 2.4O 1210 Chip Resistor - Surface Mount ROHS
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES 1210"; UniqueID = "\YQOEFEZD\CAQLXBQS" ("\YQOEFEZD\CAQLXBQS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Ever-Ohms-Tech-CR1210J2R40P05S_C174575.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ever Ohms Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "CR1210J2R40P05S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.4O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES 1210"; UniqueID = "\YQOEFEZD\XPMSDTNA" ("\YQOEFEZD\XPMSDTNA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Ever-Ohms-Tech-CR1210J2R40P05S_C174575.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ever Ohms Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "CR1210J2R40P05S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.4O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES 0805"; UniqueID = "\VCXRNVML\FKLTYUOX" ("\VCXRNVML\FKLTYUOX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES 0805"; UniqueID = "\VCXRNVML\JHRSTFSP" ("\VCXRNVML\JHRSTFSP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
