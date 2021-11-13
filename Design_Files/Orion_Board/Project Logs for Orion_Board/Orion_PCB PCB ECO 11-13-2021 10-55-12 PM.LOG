@@ -1,0 +1,24 @@
+Added Component: Designator=B(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GND(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=G(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VP(Test Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W(Test Point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=BLUE Pin=B-1
+Added Pin To Net: NetName=GREEN Pin=G-1
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=RED Pin=R-1
+Added Pin To Net: NetName=VIN# Pin=VP-1
+Added Pin To Net: NetName=WHITE Pin=W-1
+Added Member To Class: ClassName=U_Connector_Section Member=Component B Test Point
+Added Member To Class: ClassName=U_Connector_Section Member=Component GND Test Point
+Added Member To Class: ClassName=U_Connector_Section Member=Component G Test Point
+Added Member To Class: ClassName=U_Connector_Section Member=Component R Test Point
+Added Member To Class: ClassName=U_Connector_Section Member=Component VP Test Point
+Added Member To Class: ClassName=U_Connector_Section Member=Component W Test Point

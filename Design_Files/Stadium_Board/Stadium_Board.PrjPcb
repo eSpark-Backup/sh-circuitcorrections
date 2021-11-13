@@ -242,98 +242,86 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Stadium_Board\Design Rule Check - Stadium_Board.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Stadium_Board\Pick Place for Stadium_Board.csv
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Stadium_Board\Pick Place for Stadium_Board.txt
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board-RectHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.REP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Stadium_Board\Stadium_Board.RUL
 DItemRevisionGUID=
 
