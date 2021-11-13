@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Stadium_Board.PcbDoc   11/13/2021  9:45:36 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Stadium_Board-RoundHoles.TXT
+ASCII SlotHoles File : Stadium_Board-SlotHoles.TXT
+ASCII RectHoles File : Stadium_Board-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             33        PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             24        PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Slot              3         PTH        0.00inch (0.00mm)
+T4      36mil (0.92mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             7         PTH        0.00inch (0.00mm)
+T6      55mil (1.397mm)                                           Rectangle         4         PTH        0.00inch (0.00mm)
+T7      91mil (2.3mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              77
+
+Total Processing Time (hh:mm:ss) : 00:00:00

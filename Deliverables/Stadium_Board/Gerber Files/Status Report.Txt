@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Stadium_Board.PrjPcb]
+   Generated File[Stadium_Board-RoundHoles.TXT]
+   Generated File[Stadium_Board-SlotHoles.TXT]
+   Generated File[Stadium_Board-RectHoles.TXT]
+   Generated File[Stadium_Board.LDP]
+   Generated File[Stadium_Board.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 9:45:36 PM On 11/13/2021
