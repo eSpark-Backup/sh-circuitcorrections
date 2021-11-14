@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Orion_PCB.PcbDoc   11/14/2021  2:14:13 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Orion_PCB-RoundHoles.TXT
+ASCII SlotHoles File : Orion_PCB-SlotHoles.TXT
+ASCII RectHoles File : Orion_PCB-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             17        PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Slot              3         PTH        0.00inch (0.00mm)
+T4      33mil (0.838mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             9         PTH        0.00inch (0.00mm)
+T6      43mil (1.09mm)                                            Round             14        PTH        0.00inch (0.00mm)
+T7      55mil (1.397mm)                                           Rectangle         4         PTH        0.00inch (0.00mm)
+T8      134mil (3.4mm)                                            Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              76
+
+Total Processing Time (hh:mm:ss) : 00:00:01
