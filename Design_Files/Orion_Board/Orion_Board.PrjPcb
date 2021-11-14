@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=Orion_PCB.PcbDoc
+DocumentPath=Orion_PCB_Latest.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -206,6 +206,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TGUNHUNC
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Orion_Board\Design Rule Check - Orion_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Orion_Board\Design Rule Check - Orion_PCB_Latest.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
