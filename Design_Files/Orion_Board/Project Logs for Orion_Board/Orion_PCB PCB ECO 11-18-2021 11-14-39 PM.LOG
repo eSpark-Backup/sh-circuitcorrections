@@ -1,0 +1,11 @@
+Added Component: Designator=J1(DC-C024E-7A-1.65)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manfacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maunfacturer Part No"; Value = "DC-C024E-7A-1.65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Member To Class: ClassName=U_Connector_Section Member=Component J1 DC-C024E-7A-1.65

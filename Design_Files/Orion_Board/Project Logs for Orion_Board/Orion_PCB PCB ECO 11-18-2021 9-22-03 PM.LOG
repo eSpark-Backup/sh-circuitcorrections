@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=U_Switching_Section Member=C14
+Change Component Description : Designator=D1 Old Description=1A 5µA 1kV 1kV 1.1V 1A SMA(DO-214AC) Diodes - General Purpose ROHS New Description=1A 5µA 1kV 1kV 1.1V 1A SMA(DO-214AC) Diodes - General Purpose ROHS
+Change Component Description : Designator=R13 Old Description=13kO 0201 Chip Resistor New Description=13kO 0201 Chip Resistor
+Change Component Description : Designator=R16 Old Description=13kO 0201 Chip Resistor New Description=13kO 0201 Chip Resistor
+Change Component Description : Designator=R11 Old Description=51kO 0201 Chip Resistor New Description=51kO 0201 Chip Resistor
+Change Component Description : Designator=R14 Old Description=51kO 0201 Chip Resistor New Description=51kO 0201 Chip Resistor
+Change Component Description : Designator=R12 Old Description=715kO 0201 Chip Resistor New Description=715kO 0201 Chip Resistor
+Change Component Description : Designator=R15 Old Description=715kO 0201 Chip Resistor New Description=715kO 0201 Chip Resistor
+Change Component Description : Designator=R3 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R5 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R8 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R9 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R10 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R17 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R18 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change component parameters: Designator = "R3"; Footprint = "RES 0805"; UniqueID = "\NRPAQONX\EZETGJDI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RES 0805"; UniqueID = "\SBGFJDMN\XJZOUSRY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "RES 0805"; UniqueID = "\SBGFJDMN\EVXNEXRT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "RES 0805"; UniqueID = "\SBGFJDMN\LNUIGGJW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "RES 0805"; UniqueID = "\SBGFJDMN\WJSLPKXD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17"; Footprint = "RES 0805"; UniqueID = "\SBGFJDMN\NIPPDNRK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18"; Footprint = "RES 0805"; UniqueID = "\SBGFJDMN\ZTPFMZKX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Power_Section Member=Component C3 33uF
+Added Member To Class: ClassName=U_Connector_Section Member=Component J1 DC-C024E-7A-1.65
+Added Member To Class: ClassName=U_Switching_Section Member=Component R8 10K
+Added Member To Class: ClassName=U_Power_Section Member=Component U1 UA78M05IDCYR
