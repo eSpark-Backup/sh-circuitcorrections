@@ -1,0 +1,20 @@
+Change Component Description : Designator=R3 Old Description=13kO 0201 Chip Resistor New Description=13kO 0201 Chip Resistor
+Change Component Description : Designator=R6 Old Description=13kO 0201 Chip Resistor New Description=13kO 0201 Chip Resistor
+Change Component Description : Designator=R1 Old Description=51kO 0201 Chip Resistor New Description=51kO 0201 Chip Resistor
+Change Component Description : Designator=R4 Old Description=51kO 0201 Chip Resistor New Description=51kO 0201 Chip Resistor
+Change Component Description : Designator=R2 Old Description=715kO 0201 Chip Resistor New Description=715kO 0201 Chip Resistor
+Change Component Description : Designator=R5 Old Description=715kO 0201 Chip Resistor New Description=715kO 0201 Chip Resistor
+Change Component Description : Designator=R14 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R16 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change component parameters: Designator = "R14"; Footprint = "RES 0805"; UniqueID = "\SEBYCEZT\HBHIVGQD\QUAHGNXI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16"; Footprint = "RES 0805"; UniqueID = "\SEBYCEZT\HBHIVGQD\FWNDENIC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"

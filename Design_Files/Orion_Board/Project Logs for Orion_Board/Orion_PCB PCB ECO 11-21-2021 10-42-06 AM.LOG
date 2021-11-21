@@ -1,0 +1,10 @@
+Added Component: Designator=R3(RES 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWR_IN Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Member To Class: ClassName=U_Processing_Section Member=Component R3 10K
+Added Member To Class: ClassName=U_Switching_Section Member=Component SW4 TS-1187A-C-G-B
