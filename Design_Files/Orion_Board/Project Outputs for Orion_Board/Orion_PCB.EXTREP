@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Orion_PCB.GBR   11/23/2021  11:26:02 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GPT                Top Pad Master                          
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GM2                Mechanical 2                            
+.GBO                Bottom Overlay                          
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

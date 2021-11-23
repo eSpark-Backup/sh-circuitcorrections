@@ -1,25 +1,11 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of Project [Orion_Board.PrjPcb]
-   Generated File[Orion_PCB.GTO]
-   Generated File[Orion_PCB.GTP]
-   Generated File[Orion_PCB.GTS]
-   Generated File[Orion_PCB.GTL]
-   Generated File[Orion_PCB.GBL]
-   Generated File[Orion_PCB.GBS]
-   Generated File[Orion_PCB.GBP]
-   Generated File[Orion_PCB.GBO]
-   Generated File[Orion_PCB.GM2]
-   Generated File[Orion_PCB.GPT]
-   Generated File[Orion_PCB.GPB]
-   Generated File[Orion_PCB.GD1]
-   Generated File[Orion_PCB.GG1]
-   Generated File[Orion_PCB.RUL]
-   Generated File[Orion_PCB.EXTREP]
-   Generated File[Orion_PCB.REP]
+   Generated File[Pick Place for Orion_PCB.txt]
+   Generated File[Pick Place for Orion_PCB.csv]
 
 
-Files Generated   : 16
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 2:15:36 PM On 11/14/2021
+Finished Output Generation At 11:27:10 PM On 11/23/2021

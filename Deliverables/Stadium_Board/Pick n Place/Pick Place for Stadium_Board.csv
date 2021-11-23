@@ -4,19 +4,20 @@ C:\Users\eSpark-37\Documents\GitHub\SH-CircuitCorrections\Design_Files\Stadium_B
 ========================================================================================================================
 File Design Information:
 
-Date:       13/11/21
-Time:       21:43
-Revision:   db004073aec708d913f5c5d9fc48ba7a97320760
+Date:       23/11/21
+Time:       22:26
+Revision:   3135a8abb327ccfe0517f4d8977d89644219cc2b
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"U7","ESP8285","TopLayer","ESP8285","66,2332mm","38,9380mm","180","DC5-24V Wireless WIFI LED RGB Controller RGBW Controller IR / RF Remote Control IOS/Android for LED Strip RGB RGBW RGBWW","72,5732mm","42,1430mm","59,8932mm","35,7330mm"
+"J1","DC-C024E-7A-1.65","TopLayer","DC-C024E-7A-1.65","9,6950mm","8,0594mm","360","DC Power Receptacle 1.65mm 4.3mm 7A 24V Plugin AC/DC Power Connectors ROHS","9,6950mm","8,0594mm","13,6900mm","7,7594mm"
 "SB8","Solder Bridge","TopLayer","Solder_Bridge","25,7048mm","22,2250mm","90","Solder Bridge ON","25,7048mm","22,2250mm","25,7048mm","21,4630mm"
 "SB7","Solder Bridge","TopLayer","Solder_Bridge","31,5976mm","31,2928mm","90","Solder Bridge ON","31,5976mm","31,2928mm","31,5976mm","30,5308mm"
 "R13","560R","TopLayer","RES_1210","35,6870mm","28,1432mm","0","RES 560 OHM 1% 1/2W 1210","35,6870mm","28,1432mm","34,0870mm","28,1432mm"
-"CF1","0.1uF","TopLayer","CAP_0201","12,5524mm","13,2588mm","180","CAP CER 0.1UF 25V X5R 0201","12,5524mm","13,2588mm","12,8524mm","13,2588mm"
+"CF1","0.1uF","TopLayer","CAP_0201","14,6812mm","9,9314mm","90","CAP CER 0.1UF 25V X5R 0201","14,6812mm","9,9314mm","14,6812mm","9,6314mm"
 "C3","220pF","TopLayer","CAP_0201","43,1800mm","25,6286mm","360","50V 220pF X7R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS","43,1800mm","25,6286mm","42,8800mm","25,6286mm"
-"U7","ESP8285","TopLayer","ESP8285","66,2332mm","38,9380mm","180","DC5-24V Wireless WIFI LED RGB Controller RGBW Controller IR / RF Remote Control IOS/Android for LED Strip RGB RGBW RGBWW","72,5732mm","42,1430mm","59,8932mm","35,7330mm"
 "U4","SE8633X2-HF","TopLayer","SOT23-3","39,8932mm","38,6746mm","90","Fixed 3.3V~3.3V Positive 1 80V SOT23-3 Linear Voltage Regulators (LDO) ROHS","39,8932mm","38,6238mm","38,9432mm","37,4396mm"
 "SB3","Solder Bridge","TopLayer","Solder_Bridge","42,2148mm","41,0718mm","90","Solder Bridge ON","42,2148mm","41,0718mm","42,2148mm","40,3098mm"
 "SB1","Solder Bridge","TopLayer","Solder_Bridge","27,4574mm","19,4564mm","90","Solder Bridge ON","27,4574mm","19,4564mm","27,4574mm","18,6944mm"
@@ -61,5 +62,4 @@ Units used: mm
 "Q2","IPB120P04P4L03ATMA2","TopLayer","IPB120P04P4L03ATMA2","25,8796mm","6,0960mm","270","MOSFET P-CH 40V 120A TO263-3","25,8796mm","6,0960mm","21,3046mm","8,6360mm"
 "Q1","IPB120P04P4L03ATMA2","TopLayer","IPB120P04P4L03ATMA2","46,5552mm","6,0960mm","270","MOSFET P-CH 40V 120A TO263-3","46,5552mm","6,0960mm","41,9802mm","8,6360mm"
 "J2","292303-1","TopLayer","292303-1","11,4720mm","33,9250mm","270","USB-A (USB TYPE-A) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle","12,8270mm","37,4250mm","12,8270mm","37,4250mm"
-"J1","DC-005-25A","TopLayer","DC-005-25A","10,8740mm","5,9554mm","360","500mA Jack DCPowerReceptacle 6.4mm 2.5mm 14.2*9.0mm AC/DC Power Connectors ROHS","10,8740mm","5,9554mm","13,8740mm","8,2804mm"
 "D2","SDM2U20SD3-7","TopLayer","SDM2U20SD3-7","48,6664mm","16,4592mm","270","DIODE SCHOTTKY 20V 2A SOD323","48,6664mm","16,4592mm","48,6664mm","17,5142mm"

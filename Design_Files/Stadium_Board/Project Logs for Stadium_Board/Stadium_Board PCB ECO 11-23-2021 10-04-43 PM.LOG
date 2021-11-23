@@ -1,0 +1,15 @@
+Added Component: Designator=U7(ESP8285)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://tasmota.github.io/docs/devices/MagicHome-with-ESP8285/#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tasmota"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "ESP8285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=12VIN Pin=U7-2
+Added Pin To Net: NetName=12VIN Pin=U7-3
+Added Pin To Net: NetName=RED Pin=U7-4
+Added Pin To Net: NetName=GREEN Pin=U7-5
+Added Pin To Net: NetName=BLUE Pin=U7-6
+Added Pin To Net: NetName=WHITE Pin=U7-7
+Added Member To Class: ClassName=U_Connector_Section Member=Component U7 ESP8285
