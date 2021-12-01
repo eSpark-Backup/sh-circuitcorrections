@@ -1,11 +1,14 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [Stadium_Board.PrjPcb]
-   Generated File[Pick Place for Stadium_Board.txt]
-   Generated File[Pick Place for Stadium_Board.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Stadium_Board.PrjPcb]
+   Generated File[Stadium_Board-RoundHoles.TXT]
+   Generated File[Stadium_Board-SlotHoles.TXT]
+   Generated File[Stadium_Board-RectHoles.TXT]
+   Generated File[Stadium_Board.LDP]
+   Generated File[Stadium_Board.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 5
 Documents Printed : 0
 
-Finished Output Generation At 10:26:45 PM On 11/23/2021
+Finished Output Generation At 12:53:02 PM On 12/1/2021
