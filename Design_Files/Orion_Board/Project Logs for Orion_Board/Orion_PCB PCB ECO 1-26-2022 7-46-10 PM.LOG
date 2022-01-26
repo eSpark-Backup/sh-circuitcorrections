@@ -1,0 +1,144 @@
+Change Component Description : Designator=D1 Old Description=1A 5µA 1kV 1kV 1.1V 1A SMA(DO-214AC) Diodes - General Purpose ROHS New Description=1A 5µA 1kV 1kV 1.1V 1A SMA(DO-214AC) Diodes - General Purpose ROHS
+Change Component Description : Designator=R13 Old Description=13kO 0201 Chip Resistor New Description=13kO 0201 Chip Resistor
+Change Component Description : Designator=R16 Old Description=13kO 0201 Chip Resistor New Description=13kO 0201 Chip Resistor
+Change Component Description : Designator=R11 Old Description=51kO 0201 Chip Resistor New Description=51kO 0201 Chip Resistor
+Change Component Description : Designator=R14 Old Description=51kO 0201 Chip Resistor New Description=51kO 0201 Chip Resistor
+Change Component Description : Designator=R12 Old Description=715kO 0201 Chip Resistor New Description=715kO 0201 Chip Resistor
+Change Component Description : Designator=R15 Old Description=715kO 0201 Chip Resistor New Description=715kO 0201 Chip Resistor
+Change Component Description : Designator=R3 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R5 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R8 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R9 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R10 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R17 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R18 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R19 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R20 Old Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS New Description=±1% 1/8W Thick Film Resistors 150V ±100ppm/? -55?~+155? 10kO 0805 Chip Resistor - Surface Mount ROHS
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES 0805"; UniqueID = "\NRPAQONX\EZETGJDI" ("\NRPAQONX\EZETGJDI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES 0805"; UniqueID = "\SBGFJDMN\XJZOUSRY" ("\SBGFJDMN\XJZOUSRY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES 0805"; UniqueID = "\NRPAQONX\QUHERIXC" ("\NRPAQONX\QUHERIXC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES 0805"; UniqueID = "\SBGFJDMN\LNUIGGJW" ("\SBGFJDMN\LNUIGGJW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES 0805"; UniqueID = "\SBGFJDMN\WJSLPKXD" ("\SBGFJDMN\WJSLPKXD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RES 0805"; UniqueID = "\NRPAQONX\OZZVLIWB" ("\NRPAQONX\OZZVLIWB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "RES 0805"; UniqueID = "\NRPAQONX\SSGHRHUS" ("\NRPAQONX\SSGHRHUS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "RES 0805"; UniqueID = "\NRPAQONX\UALQIMPY" ("\NRPAQONX\UALQIMPY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "RES 0805"; UniqueID = "\NRPAQONX\QLBPQCKX" ("\NRPAQONX\QLBPQCKX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Component: Designator=J10(0705510042)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://components.arrow.com/part/dataview/2934385S6164661N3303?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://components.arrow.com/part/dataview/2934385S6164661N3303?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.molex.com/pdm_docs/sd/705510001_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/705510001_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.24inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "15mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.59mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Latch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0705510042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.63000, 10=2.31400, 100=1.84100, 1000=1.52539, 5000=1.36759 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM20418-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=J11(0705510040)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://components.arrow.com/part/dataview/2934387S8722778N3303?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://components.arrow.com/part/dataview/2934387S8722778N3303?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.molex.com/pdm_docs/sd/705510001_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/pdm_docs/sd/705510001_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.24inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "15mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.59mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Latch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0705510040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.52000, 28=2.14929, 84=1.77560, 952=1.40175, 4900=1.24600 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1707"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM21002-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AN_1 Pin=J10-1
+Added Pin To Net: NetName=CAT_1 Pin=J10-2
+Added Pin To Net: NetName=AN_2 Pin=J10-3
+Added Pin To Net: NetName=CAT_2 Pin=J10-4
+Added Pin To Net: NetName=AN_3 Pin=J10-5
+Added Pin To Net: NetName=CAT_3 Pin=J10-6
+Added Pin To Net: NetName=AN_4 Pin=J10-7
+Added Pin To Net: NetName=CAT_4 Pin=J10-8
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=RA4 Pin=J11-2
+Added Pin To Net: NetName=RA5 Pin=J11-3
+Added Pin To Net: NetName=RA6 Pin=J11-4
+Added Pin To Net: NetName=RA7 Pin=J11-5
+Added Pin To Net: NetName=RC0 Pin=J11-6
+Added Member To Class: ClassName=U_Connector_Section Member=Component J3 95293-401A06LF
+Added Member To Class: ClassName=U_Connector_Section Member=Component J10 0705510042
+Added Member To Class: ClassName=U_Connector_Section Member=Component J11 0705510040
